@@ -1,0 +1,9 @@
+PWD /Users/Miguel1/Economie
+INPUT /usr/local/texlive/2016/texmf.cnf
+INPUT /usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT chapitre1.tex
+OUTPUT auxFile/chapitre1.log
+INPUT auxFile/chapitre1.aux
+INPUT auxFile/chapitre1.aux
+OUTPUT auxFile/chapitre1.aux
