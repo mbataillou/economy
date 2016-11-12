@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.7.5)  13 OCT 2016 17:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.15)  12 NOV 2016 16:13
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
 **BE.tex
 (./BE.tex
-LaTeX2e <2016/03/31>
+LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -343,10 +343,10 @@ Now handling font encoding U ...
    defining Unicode char U+2423 (decimal 9251)
 ))
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
-File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
 (/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
@@ -412,15 +412,43 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/pgfplots/pgfplots.sty
 (/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
-Package: pgfplots 2016/01/06 v1.13 Data Visualization (1.13)
+Package: pgfplots 2016/08/10 v1.14 Data Visualization (1.14)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count93
+))
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
 x
 \pgfutil@everybye=\toks19
-\pgfutil@tempdima=\dimen107
-\pgfutil@tempdimb=\dimen108
+\pgfutil@tempdima=\dimen109
+\pgfutil@tempdimb=\dimen110
 
 (/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
 sts.tex))
@@ -434,34 +462,6 @@ Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
 Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 96.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count93
-))
-\Gin@req@height=\dimen109
-\Gin@req@width=\dimen110
-)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
 (/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
@@ -848,7 +848,7 @@ File: tikzlibraryplotmarks.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 ks.code.tex
 File: pgflibraryplotmarks.code.tex 2015/08/03 v3.0.1a (rcs-revision 1.14)
 ))) (/usr/local/texlive/2016/texmf-dist/tex/latex/mhchem/mhchem.sty
-Package: mhchem 2016/02/07 v4.04 for typesetting chemical formulae
+Package: mhchem 2016/08/07 v4.05 for typesetting chemical formulae
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2016/05/18 v6512 L3 programming layer (loader) 
@@ -1046,7 +1046,7 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Cskip=\skip59
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2016/03/10 v2.15b AMS math features
+Package: amsmath 2016/06/28 v2.15d AMS math features
 \@mathmargin=\skip60
 
 For additional information on amsmath, use the `?' option.
@@ -1210,7 +1210,7 @@ File: pgflibraryarrows.meta.code.tex 2015/05/13 v3.0.1a (rcs-revision 1.13)
 Package: chemfig 2015/12/01 v1.2d Draw molecule with an easy syntax
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
-Package: tcolorbox 2016/04/27 version 3.91 text color boxes
+Package: tcolorbox 2016/07/14 version 3.94 text color boxes
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
@@ -1288,7 +1288,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks48
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/siunitx/siunitx.sty
-Package: siunitx 2016/03/01 v2.6q A comprehensive (SI) units package
+Package: siunitx 2016/09/02 v2.6s A comprehensive (SI) units package
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/array.sty
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
@@ -1341,119 +1341,119 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7218.
+. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7237.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIPostPower with sig. 'mm' on line 7221.
+. Defining command \DeclareSIPostPower with sig. 'mm' on line 7240.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7224.
+. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7243.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIPrePower with sig. 'mm' on line 7227.
+. Defining command \DeclareSIPrePower with sig. 'mm' on line 7246.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIQualifier with sig. 'mm' on line 7230.
+. Defining command \DeclareSIQualifier with sig. 'mm' on line 7249.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7233.
+. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7252.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7236.
+. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7255.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7251.
+. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7270.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \num with sig. 'om' on line 7260.
+. Defining command \num with sig. 'om' on line 7279.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7269.
+. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7288.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \numrange with sig. 'omm' on line 7278.
+. Defining command \numrange with sig. 'omm' on line 7297.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7290.
+. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7309.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SIrange with sig. 'ommm' on line 7302.
+. Defining command \SIrange with sig. 'ommm' on line 7321.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SI with sig. 'omom' on line 7314.
+. Defining command \SI with sig. 'omom' on line 7333.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \sisetup with sig. 'm' on line 7317.
+. Defining command \sisetup with sig. 'm' on line 7336.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \tablenum with sig. 'om' on line 7332.
+. Defining command \tablenum with sig. 'om' on line 7351.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \si with sig. 'om' on line 7344.
+. Defining command \si with sig. 'om' on line 7363.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__siunitx_bookmark_num:w with sig. 'om' on line 7391.
+. Defining command \__siunitx_bookmark_num:w with sig. 'om' on line 7410.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \__siunitx_bookmark_numrange:w with sig. 'omm' on line
-. 7393.
+. 7412.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__siunitx_bookmark_SI:w with sig. 'omom' on line 7395.
+. Defining command \__siunitx_bookmark_SI:w with sig. 'omom' on line 7414.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__siunitx_bookmark_SIlist:w with sig. 'omm' on line 7397.
+. Defining command \__siunitx_bookmark_SIlist:w with sig. 'omm' on line 7416.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \__siunitx_bookmark_SIrange:w with sig. 'ommm' on line
-. 7399.
+. 7418.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__siunitx_bookmark_si:w with sig. 'om' on line 7400.
+. Defining command \__siunitx_bookmark_si:w with sig. 'om' on line 7419.
 .................................................
 \g__file_internal_ior=\read3
 
@@ -1632,7 +1632,7 @@ File: listings.cfg 2015/06/04 1.6 listings configuration
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2016/05/05 v6.83n Hypertext links for LaTeX
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
 
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
@@ -1655,7 +1655,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -1672,7 +1672,7 @@ Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
 Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
 Package: xcolor-patch 2016/05/16 xcolor patch
 Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
-Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
@@ -1687,7 +1687,7 @@ Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 \Hy@pagecounter=\count321
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2016/05/05 v6.83n Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
@@ -1696,28 +1696,28 @@ Now handling font encoding PD1 ...
 (/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Hyper figures OFF on input line 4446.
-Package hyperref Info: Link nesting OFF on input line 4451.
-Package hyperref Info: Hyper index ON on input line 4454.
-Package hyperref Info: Plain pages OFF on input line 4461.
-Package hyperref Info: Backreferencing OFF on input line 4466.
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4691.
+Package hyperref Info: Bookmarks ON on input line 4735.
 \c@Hy@tempcnt=\count323
-LaTeX Info: Redefining \url on input line 5044.
+LaTeX Info: Redefining \url on input line 5088.
 \XeTeXLinkMargin=\dimen310
 \Fld@menulength=\count324
 \Field@Width=\dimen311
 \Fld@charsize=\dimen312
-Package hyperref Info: Hyper figures OFF on input line 6298.
-Package hyperref Info: Link nesting OFF on input line 6303.
-Package hyperref Info: Hyper index ON on input line 6306.
-Package hyperref Info: backreferencing OFF on input line 6313.
-Package hyperref Info: Link coloring OFF on input line 6318.
-Package hyperref Info: Link coloring with OCG OFF on input line 6323.
-Package hyperref Info: PDF/A mode OFF on input line 6328.
-LaTeX Info: Redefining \ref on input line 6368.
-LaTeX Info: Redefining \pageref on input line 6372.
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
 \Hy@abspage=\count325
 \c@Item=\count326
 \c@Hfootnote=\count327
@@ -1726,7 +1726,7 @@ LaTeX Info: Redefining \pageref on input line 6372.
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2016/05/05 v6.83n Hyperref driver for pdfTeX
+File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
 \Fld@listcount=\count328
 \c@bookmark@seq@number=\count329
 
@@ -1740,7 +1740,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 Package hyperref Info: Option `colorlinks' set `true' on input line 68.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.sty
-Package: csquotes 2016/01/31 v5.1g context-sensitive quotations (JAW)
+Package: csquotes 2016/07/14 v5.1h context-sensitive quotations (JAW)
 \csq@reset=\count330
 \csq@gtype=\count331
 \csq@glevel=\count332
@@ -1750,7 +1750,7 @@ Package: csquotes 2016/01/31 v5.1g context-sensitive quotations (JAW)
 \csq@ltx@everypar=\toks54
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.def
-File: csquotes.def 2016/01/31 v5.1g csquotes generic definitions (JAW)
+File: csquotes.def 2016/07/14 v5.1h csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
@@ -1792,6 +1792,8 @@ Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
@@ -1805,7 +1807,7 @@ e
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen315
 \captionmargin@=\dimen316
@@ -1821,7 +1823,7 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
 \c@subfigure=\count338
 \c@subtable=\count339
 )
@@ -1873,7 +1875,7 @@ Package frenchb.ldf Info: Setting StandardEnumerateEnv=true for
 (frenchb.ldf)             compatibility with enumitem package,
 (frenchb.ldf)              on input line 5.
 LaTeX Info: Redefining \up on input line 5.
- ABD: EveryShipout initializing macros
+
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count342
@@ -1887,10 +1889,10 @@ LaTeX Info: Redefining \up on input line 5.
 \MPnumerator=\count346
 \makeMPintoPDFobject=\count347
 \everyMPtoPDFconversion=\toks59
-)
+) ABD: EveryShipout initializing macros
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
-ick labels; missing features). Consider writing \pgfplotsset{compat=1.13} into 
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.14} into 
 your preamble.
  on input line 5.
 
@@ -2012,13 +2014,13 @@ r-basic-dictionary/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
-File: siunitx-abbreviations.cfg 2016/03/01 v2.6q siunitx: Abbreviated units
+File: siunitx-abbreviations.cfg 2016/09/02 v2.6s siunitx: Abbreviated units
 )
 \c@lstlisting=\count348
 \AtBeginShipoutBox=\box103
 Package hyperref Info: Link coloring ON on input line 5.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
@@ -2028,6 +2030,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 5.
 LaTeX Info: Redefining \pageref on input line 5.
 LaTeX Info: Redefining \nameref on input line 5.
+
+(auxFile/BE.out) (auxFile/BE.out)
 \@outlinefile=\write7
 \openout7 = `BE.out'.
 
@@ -2054,14 +2058,27 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 5.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 \c__siunitx_mathtt_int=\count351
- (auxFile/BE.toc)
+
+(./src/title.tex <./img/logo_centralesup.jpg, id=83, 277.5168pt x 142.3719pt>
+File: ./img/logo_centralesup.jpg Graphic file (type jpg)
+
+<use ./img/logo_centralesup.jpg>
+Package pdftex.def Info: ./img/logo_centralesup.jpg used on input line 7.
+(pdftex.def)             Requested size: 138.75806pt x 71.18576pt.
+ [1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./img/l
+ogo_centralesup.jpg>]) (auxFile/BE.toc)
 \tf@toc=\write8
 \openout8 = `BE.toc'.
 
- (./src/chapitre1.tex [1
 
-{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]) (.
-/src/chapter2.tex [3] [4] [5] [6] [7] [8]
+(./src/chapitre1.texpdfTeX warning (ext4): destination with the same identifier
+ (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.13 \end{itemize}
+                   [1] [2]) (./src/chapter2.tex [3] [4] [5] [6] [7] [8]
 
 LaTeX Warning: Command \` invalid in math mode on input line 240.
 
@@ -2076,36 +2093,29 @@ Underfull \hbox (badness 2970) in paragraph at lines 250--259
 )
  []
 
-[9] <./img/IM1.png, id=110, 381.425pt x 233.87375pt>
+[9] <./img/IM1.png, id=173, 381.425pt x 233.87375pt>
 File: ./img/IM1.png Graphic file (type png)
  <use ./img/IM1.png>
 Package pdftex.def Info: ./img/IM1.png used on input line 288.
 (pdftex.def)             Requested size: 266.99567pt x 163.71048pt.
 
-[10 <./img/IM1.png>] [11]) [12]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 22.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 22.
+[10 <./img/IM1.png>] [11]) (./src/chapter3.tex) [12]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 16.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 16.
  (auxFile/BE.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 22.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 22.
-
-
-Package rerunfilecheck Warning: File `BE.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `BE.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  789D8F1AA782A1D3127FD896580F35F2;1358.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 16.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 16.
+Package rerunfilecheck Info: File `BE.out' has not changed.
+(rerunfilecheck)             Checksum: A343E9F83E05A1139757CA42DC4C3396;1448.
  ) 
 Here is how much of TeX's memory you used:
- 47594 strings out of 493014
- 1088781 string characters out of 6133352
- 1277250 words of memory out of 5000000
- 50382 multiletter control sequences out of 15000+600000
- 24920 words of font info for 71 fonts, out of 8000000 for 9000
+ 48028 strings out of 493013
+ 1103744 string characters out of 6133342
+ 1302563 words of memory out of 5000000
+ 50805 multiletter control sequences out of 15000+600000
+ 24142 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,10n,79p,10365b,967s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,10n,98p,10365b,967s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
 /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
@@ -2120,19 +2130,18 @@ ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
 /2016/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2
 016/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/201
 6/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2016/
-texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2016/te
-xmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2016/texm
-f-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2016/texmf-
-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2016/texmf-di
-st/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2016/texmf-dist
-/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2016/texmf-dist/f
-onts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2016/texmf-dist/fon
-ts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2016/texmf-dist/fonts
-/type1/urw/zapfding/uzdr.pfb>
-Output written on auxFile/BE.pdf (12 pages, 322780 bytes).
+texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2016/texm
+f-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2016/texmf-
+dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2016/texmf-di
+st/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2016/texmf-dist
+/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2016/texmf-dist/f
+onts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2016/texmf-dist/fon
+ts/type1/urw/zapfding/uzdr.pfb>
+Output written on auxFile/BE.pdf (13 pages, 440802 bytes).
 PDF statistics:
- 210 PDF objects out of 1000 (max. 8388607)
- 170 compressed objects within 2 object streams
- 41 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 272 PDF objects out of 1000 (max. 8388607)
+ 230 compressed objects within 3 object streams
+ 42 named destinations out of 1000 (max. 500000)
+ 175 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,16 +1,16 @@
 \select@language {french}
 \contentsline {part}{I\hspace {1em}Introduction g\IeC {\'e}n\IeC {\'e}rale}{1}{part.1}
-\contentsline {section}{\numberline {1}L'\IeC {\'e}conomie est-elle une science}{2}{section.1}
+\contentsline {section}{\numberline {1}L'\IeC {\'e}conomie est-elle une science}{1}{section.1}
 \contentsline {section}{\numberline {2}Qu'est-ce que l'analyse \IeC {\'e}conomique}{2}{section.2}
 \contentsline {paragraph}{\IeC {\'E}conomie positive contre \IeC {\'e}conomie normative}{2}{section*.1}
 \contentsline {paragraph}{Macro\IeC {\'e}conomie vs micro\IeC {\'e}conomie}{2}{section*.2}
-\contentsline {paragraph}{Analyse conjoncturelle et analyse structurelle}{3}{section*.3}
+\contentsline {paragraph}{Analyse conjoncturelle et analyse structurelle}{2}{section*.3}
 \contentsline {section}{\numberline {3}\IeC {\'E}volution dans la conception de l'analyse \IeC {\'e}conomique}{3}{section.3}
-\contentsline {part}{II\hspace {1em}March\IeC {\'e}s et r\IeC {\'e}gulations}{4}{part.2}
+\contentsline {part}{II\hspace {1em}March\IeC {\'e}s et r\IeC {\'e}gulations}{3}{part.2}
 \contentsline {section}{\numberline {4}Le march\IeC {\'e} et ses d\IeC {\'e}faillances}{4}{section.4}
 \contentsline {subsection}{\numberline {4.1}Concurrence parfaite}{4}{subsection.4.1}
-\contentsline {subparagraph}{Profit}{5}{section*.4}
-\contentsline {subparagraph}{Profit moyen}{5}{section*.5}
+\contentsline {subparagraph}{Profit}{4}{section*.4}
+\contentsline {subparagraph}{Profit moyen}{4}{section*.5}
 \contentsline {subsection}{\numberline {4.2}D\IeC {\'e}faillances de march\IeC {\'e}}{5}{subsection.4.2}
 \contentsline {section}{\numberline {5}Pouvoir des acteurs et structures des march\IeC {\'e}s}{5}{section.5}
 \contentsline {subsection}{\numberline {5.1}Structure des march\IeC {\'e}s}{5}{subsection.5.1}
@@ -26,3 +26,4 @@
 \contentsline {section}{\numberline {7}Monopole naturel}{11}{section.7}
 \contentsline {section}{\numberline {8}Asym\IeC {\'e}tries d'information}{12}{section.8}
 \contentsline {section}{\numberline {9}Concurrence et innovation}{12}{section.9}
+\contentsline {part}{III\hspace {1em}Financement de l'\IeC {\'e}conomie et r\IeC {\^o}le de la monnaie}{12}{part.3}
