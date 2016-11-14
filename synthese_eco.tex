@@ -1,0 +1,37 @@
+\documentclass[12pt,oneside,a4paper]{article}
+
+\usepackage{./custom}
+
+\begin{document}
+% title (fold)
+\begin{center}
+{\LARGE \bfseries 
+  Synthèse d'Économie 1 \\[0.3cm] 
+}
+{\large
+  Marc \textsc{Bataillou Almagro} --- John \textsc{de Wasseige}\\[0.3cm]
+}
+{\normalsize
+  \textsc{CentraleSupélec} --- Prof. : Pascal \textsc{Da Costa} \\[0.9cm]
+}
+\end{center}
+% title (end)
+
+\paragraph{Foreword}
+Any error or contribution should be reported
+in the form of an issue, or a pull request for those
+who can use \texttt{git} and \LaTeX, to
+\begin{center}
+  \url{https://github.com/mbataillou/economy}
+\end{center}
+You can notice that there is always place for improvement
+and your help is therefore welcome.
+\vspace{\baselineskip}
+  
+{\hypersetup{linkcolor=black}
+\tableofcontents}\newpage
+
+\input{./src/chapitre1}\newpage
+\input{./src/chapitre2}
+
+\end{document}

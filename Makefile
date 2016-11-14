@@ -1,5 +1,5 @@
 COMPILER=latexmk
-NAME=BE
+NAME=synthese_eco
 
 all: $(NAME).tex
 	$(COMPILER) -pdf -pdflatex="pdflatex -shell-escape -enable-write18" \
