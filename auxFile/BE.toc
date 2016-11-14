@@ -1,9 +1,9 @@
 \select@language {french}
-\contentsline {part}{I\hspace {1em}Introduction g\IeC {\'e}n\IeC {\'e}rale}{1}{part.1}
+\contentsline {part}{I\hspace {1em}Introduction g\IeC {\'e}n\IeC {\'e}rale}{2}{part.1}
 \contentsline {section}{\numberline {1}L'\IeC {\'e}conomie est-elle une science}{2}{section.1}
 \contentsline {section}{\numberline {2}Qu'est-ce que l'analyse \IeC {\'e}conomique}{2}{section.2}
 \contentsline {paragraph}{\IeC {\'E}conomie positive contre \IeC {\'e}conomie normative}{2}{section*.1}
-\contentsline {paragraph}{Macro\IeC {\'e}conomie vs micro\IeC {\'e}conomie}{2}{section*.2}
+\contentsline {paragraph}{Macro\IeC {\'e}conomie vs micro\IeC {\'e}conomie}{3}{section*.2}
 \contentsline {paragraph}{Analyse conjoncturelle et analyse structurelle}{3}{section*.3}
 \contentsline {section}{\numberline {3}\IeC {\'E}volution dans la conception de l'analyse \IeC {\'e}conomique}{3}{section.3}
 \contentsline {part}{II\hspace {1em}March\IeC {\'e}s et r\IeC {\'e}gulations}{4}{part.2}
@@ -26,12 +26,13 @@
 \contentsline {section}{\numberline {7}Monopole naturel}{11}{section.7}
 \contentsline {section}{\numberline {8}Asym\IeC {\'e}tries d'information}{12}{section.8}
 \contentsline {section}{\numberline {9}Concurrence et innovation}{12}{section.9}
-\contentsline {part}{III\hspace {1em}Financement de l'\IeC {\'e}conomie et r\IeC {\^o}le de la monnaie}{12}{part.3}
+\contentsline {part}{III\hspace {1em}Financement de l'\IeC {\'e}conomie et r\IeC {\^o}le de la monnaie}{13}{part.3}
 \contentsline {section}{\numberline {10}Le passage de l'\IeC {\'e}conomie d'endettement \IeC {\`a} celle de march\IeC {\'e} financier}{14}{section.10}
 \contentsline {subsection}{\numberline {10.1}La lutte contre l'inflation}{14}{subsection.10.1}
 \contentsline {subsection}{\numberline {10.2}Vers l'\IeC {\'e}conomie de march\IeC {\'e} des capitaux}{14}{subsection.10.2}
-\contentsline {subsection}{\numberline {10.3}La globalisation financi\IeC {\`e}re et ses risques}{14}{subsection.10.3}
+\contentsline {subsection}{\numberline {10.3}La globalisation financi\IeC {\`e}re et ses risques}{15}{subsection.10.3}
 \contentsline {section}{\numberline {11}Le r\IeC {\^o}le de la monnaie}{15}{section.11}
 \contentsline {subsection}{\numberline {11.1}Les fonctions de la monnaie}{15}{subsection.11.1}
 \contentsline {subsection}{\numberline {11.2}La demande d'encaisse mon\IeC {\'e}taire ou demande de monnaie}{15}{subsection.11.2}
 \contentsline {section}{\numberline {12}Le r\IeC {\^o}le de la banque centrale}{16}{section.12}
+\contentsline {part}{IV\hspace {1em}Conjoncture et politiques \IeC {\'e}conomiques}{17}{part.4}

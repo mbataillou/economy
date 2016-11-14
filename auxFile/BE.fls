@@ -484,6 +484,11 @@ INPUT ./img/IM1.png
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/jknappen/ec/eccc1200.tfm
 INPUT ./src/chapter3.tex
 INPUT ./src/chapter3.tex
+INPUT ./src/chapter4.tex
+INPUT ./src/chapter4.tex
+INPUT ./img/im2.png
+INPUT ./img/im2.png
+INPUT ./img/im2.png
 INPUT auxFile/BE.aux
 INPUT auxFile/BE.out
 INPUT auxFile/BE.out
