@@ -17,7 +17,7 @@
 *.db
 *.lb
 auxFile/*
-BE.pdf
+synthese_eco.pdf
 
 #biblatex
 *.bbl
